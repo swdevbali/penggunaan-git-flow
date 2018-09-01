@@ -1,1 +1,5 @@
 Repository ini dibuat untuk menunjukkan kegunaan Git Flow
+==
+Ini dari SS-10, adalah branch yang dipakai DEV untuk mengerjakan fitur-fitur apapun.
+Dev bisa mengkomit, dan mempush apapun di branch ini, sesukanya.
+Ada bug, ndak masalah.
