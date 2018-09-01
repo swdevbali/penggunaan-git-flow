@@ -6,3 +6,9 @@ Ada bug, ndak masalah.
 ===
 
 Bug beres, dicoba, jalan. Maka saatnya melakukan FINISH FEATURE
+==
+
+FINISH FEATURE:
+Memerge branch FEATURE INI ke DEVELOP
+Menghapus local branch FEATURE INI
+Menghapus remote branch FEATURE INI
